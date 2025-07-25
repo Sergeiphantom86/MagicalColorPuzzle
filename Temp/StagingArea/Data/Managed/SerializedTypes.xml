@@ -1,0 +1,96 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="MenuButtons" preserve="nothing" serialized="true"/>
+		<type fullname="YG.InfoYG/AuthorizationSettings" preserve="nothing" serialized="true"/>
+		<type fullname="YG.InfoYG/AutoTranslateLangsSettings" preserve="nothing" serialized="true"/>
+		<type fullname="YG.InfoYG/AutoTranslateLangsSettings/Fonts" preserve="nothing" serialized="true"/>
+		<type fullname="YG.InfoYG/AutoTranslateLangsSettings/FontsSizeCorrect" preserve="nothing" serialized="true"/>
+		<type fullname="YG.InfoYG/AutoTranslateLangsSettings/FontsTMP" preserve="nothing" serialized="true"/>
+		<type fullname="YG.InfoYG/AutoTranslateLangsSettings/Languages" preserve="nothing" serialized="true"/>
+		<type fullname="YG.InfoYG/BasicSettings" preserve="nothing" serialized="true"/>
+		<type fullname="YG.InfoYG/FlagsSettings" preserve="nothing" serialized="true"/>
+		<type fullname="YG.InfoYG/InterstitialAdvSettings" preserve="nothing" serialized="true"/>
+		<type fullname="YG.InfoYG/LeaderboardsSettings" preserve="nothing" serialized="true"/>
+		<type fullname="YG.InfoYG/LocalizationSettings" preserve="nothing" serialized="true"/>
+		<type fullname="YG.InfoYG/MetricaSettings" preserve="nothing" serialized="true"/>
+		<type fullname="YG.InfoYG/OpenURLSettings" preserve="nothing" serialized="true"/>
+		<type fullname="YG.InfoYG/PaymentsSettings" preserve="nothing" serialized="true"/>
+		<type fullname="YG.InfoYG/QuitGameEventSettings" preserve="nothing" serialized="true"/>
+		<type fullname="YG.InfoYG/RewardedAdvSettings" preserve="nothing" serialized="true"/>
+		<type fullname="YG.InfoYG/ServerTimeSettings" preserve="nothing" serialized="true"/>
+		<type fullname="YG.InfoYG/SimulationSettings" preserve="nothing" serialized="true"/>
+		<type fullname="YG.InfoYG/StorageSettings" preserve="nothing" serialized="true"/>
+		<type fullname="YG.InfoYG/TemplatesSettings" preserve="nothing" serialized="true"/>
+		<type fullname="YG.InfoYG/TemplatesSettings/Gradient" preserve="nothing" serialized="true"/>
+		<type fullname="YG.InfoYG/TemplatesSettings/ProgressBar" preserve="nothing" serialized="true"/>
+		<type fullname="YG.Insides.CommonOptions" preserve="nothing" serialized="true"/>
+		<type fullname="YG.Insides.PlatformInfo" preserve="nothing" serialized="true"/>
+		<type fullname="YG.Insides.PlatformToggles" preserve="nothing" serialized="true"/>
+		<type fullname="YG.Insides.ProjectSettings" preserve="nothing" serialized="true"/>
+		<type fullname="YG.LBPlayerDataYG/TextLegasy" preserve="nothing" serialized="true"/>
+		<type fullname="YG.LBPlayerDataYG/TextMP" preserve="nothing" serialized="true"/>
+		<type fullname="YG.Utils.LB.LBCurrentPlayerData" preserve="nothing" serialized="true"/>
+		<type fullname="YG.Utils.LB.LBData" preserve="nothing" serialized="true"/>
+		<type fullname="YG.Utils.LB.LBPlayerData" preserve="nothing" serialized="true"/>
+		<type fullname="YG.Utils.OpenURL.GameInfo" preserve="nothing" serialized="true"/>
+		<type fullname="YG.Utils.Pay.Purchase" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="DOTween">
+		<type fullname="DG.Tweening.Core.DOTweenSettings/ModulesSetup" preserve="nothing" serialized="true"/>
+		<type fullname="DG.Tweening.Core.DOTweenSettings/SafeModeOptions" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="Unity.InputSystem">
+		<type fullname="UnityEngine.InputSystem.InputAction" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.InputSystem.InputActionMap" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.InputSystem.InputBinding" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.InputSystem.InputControlScheme" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.InputSystem.InputControlScheme/DeviceRequirement" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="Unity.RenderPipelines.Core.Runtime">
+		<type fullname="UnityEngine.Rendering.UI.DebugUIPrefabBundle" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="Unity.TextMeshPro">
+		<type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.KerningTable" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_GlyphAdjustmentRecord" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_GlyphPairAdjustmentRecord" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_GlyphValueRecord" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_Sprite" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_SpriteCharacter" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_SpriteGlyph" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_Style" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule">
+		<type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.TextCoreFontEngineModule">
+		<type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.UI">
+		<type fullname="UnityEngine.EventSystems.EventTrigger/Entry" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.EventSystems.EventTrigger/TriggerEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true"/>
+	</assembly>
+</linker>
